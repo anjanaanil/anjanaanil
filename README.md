@@ -1,6 +1,6 @@
 ![images](/Images/pg.JPG)
-[![Visits Badge](https://badges.pufler.dev/visits/anjanaanil/anjanaanil?style=?flat-square&color=blue)](https://github.com/anjanaanil/anjanaanil)
-[![Repos Badge](https://badges.pufler.dev/repos/anjanaanil?style=flat-square&color=blue)](https://badges.pufler.dev/repos/anjanaanil)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/anjanaanil/anjanaanil?style=?flat-square&color=blue)](https://github.com/anjanaanil/anjanaanil)
+[![Repos Badge](https://badges.pufler.dev/repos/anjanaanil?style=flat-square&color=blue)](https://badges.pufler.dev/repos/anjanaanil) -->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-squar&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anjanaanil2021/)
 
 
